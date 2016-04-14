@@ -1,0 +1,4 @@
+select * from C3CivilAutomation.dbo.DBF_Build_Civil where courtid = 'ILCOOM1' and casenumber = '15M1703001'
+1 FileType=1234
+select * from C3CivilAutomation.dbo.DBF_Build_Civil where courtid = 'ILCOOM1' and casenumber = '15M1703001'
+1 FileType=BN

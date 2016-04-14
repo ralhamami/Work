@@ -1,0 +1,12 @@
+C:\Users\Al-HRa01\Documents\Visual Studio 2010\Projects\Team Alpha Testing\Team Alpha Testing\obj\x86\Debug\Team_Alpha_Testing.SaveTestDialog.resources
+C:\Users\Al-HRa01\Documents\Visual Studio 2010\Projects\Team Alpha Testing\Team Alpha Testing\obj\x86\Debug\Team_Alpha_Testing.TestDashboard.resources
+C:\Users\Al-HRa01\Documents\Visual Studio 2010\Projects\Team Alpha Testing\Team Alpha Testing\obj\x86\Debug\Team_Alpha_Testing.Properties.Resources.resources
+C:\Users\Al-HRa01\Documents\Visual Studio 2010\Projects\Team Alpha Testing\Team Alpha Testing\obj\x86\Debug\Team_Alpha_Testing.TestDialog.resources
+C:\Users\Al-HRa01\Documents\Visual Studio 2010\Projects\Team Alpha Testing\Team Alpha Testing\obj\x86\Debug\Team_Alpha_Testing.TFSTests.resources
+C:\Users\Al-HRa01\Documents\Visual Studio 2010\Projects\Team Alpha Testing\Team Alpha Testing\obj\x86\Debug\Team Alpha Testing.csproj.GenerateResource.Cache
+C:\Users\Al-HRa01\Documents\Visual Studio 2010\Projects\Team Alpha Testing\Team Alpha Testing\bin\Debug\Team Alpha Testing.exe
+C:\Users\Al-HRa01\Documents\Visual Studio 2010\Projects\Team Alpha Testing\Team Alpha Testing\bin\Debug\Team Alpha Testing.pdb
+C:\Users\Al-HRa01\Documents\Visual Studio 2010\Projects\Team Alpha Testing\Team Alpha Testing\obj\x86\Debug\Team Alpha Testing.exe
+C:\Users\Al-HRa01\Documents\Visual Studio 2010\Projects\Team Alpha Testing\Team Alpha Testing\obj\x86\Debug\Team Alpha Testing.pdb
+C:\Users\Rayan\Career Stuff\Projects\Work-on-Improving-Structure-at-Home\Sample2\Team Alpha Testing\Team Alpha Testing\obj\x86\Debug\Team Alpha Testing.exe
+C:\Users\Rayan\Career Stuff\Projects\Work-on-Improving-Structure-at-Home\Sample2\Team Alpha Testing\Team Alpha Testing\obj\x86\Debug\Team Alpha Testing.pdb

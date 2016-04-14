@@ -1,0 +1,2 @@
+SELECT Plaintiff, CaseNumber FROM DBF_Build_Civil WHERE CaseNumber = '2014CVD001276'
+Plaintiff=GRAHAM HOUSING AUTHORITY

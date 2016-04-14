@@ -1,0 +1,12 @@
+--1. Blank-- http://risokcwebt001/Common.WebServices/api/addressparse?fullAddress=1900%20Northwest%20Expressway%20Suite%201350%20Oklahoma%20City,%20OK
+"Address1":"1900 NORTHWEST EXPRESSWAY","Address2":"SUITE 1350","City":"OKLAHOMA CITY","State":"OK","ZipPlus4":"73118-1855","ZipCode":"73118","Zip4":"1855"
+--2. Incorrect-- http://risokcwebt001/Common.WebServices/api/addressparse?fullAddress=1900%20Northwest%20Expressway%20Suite%201350%20Oklahoma%20City,%20OK%2074012
+"Address1":"1900 NORTHWEST EXPRESSWAY","Address2":"SUITE 1350","City":"OKLAHOMA CITY","State":"OK","ZipPlus4":"73118-1855","ZipCode":"73118","Zip4":"1855"
+--3. Invalid, Alpha-- http://risokcwebt001/Common.WebServices/api/addressparse?fullAddress=1900%20Northwest%20Expressway%20Suite%201350%20Oklahoma%20City,%20OK%20apsod
+"Address1":"1900 NORTHWEST EXPRESSWAY","Address2":"SUITE 1350","City":"OKLAHOMA CITY","State":"OK","ZipPlus4":"73118-1855","ZipCode":"73118","Zip4":"1855"
+--4. Invalid, Numeric-- http://risokcwebt001/Common.WebServices/api/addressparse?fullAddress=1900%20Northwest%20Expressway%20Suite%201350%20Oklahoma%20City,%20OK%2000001
+"Address1":"1900 NORTHWEST EXPRESSWAY","Address2":"SUITE 1350","City":"OKLAHOMA CITY","State":"OK","ZipPlus4":"73118-1855","ZipCode":"73118","Zip4":"1855"
+--5. Invalid, Short-- http://risokcwebt001/Common.WebServices/api/addressparse?fullAddress=1900%20Northwest%20Expressway%20Suite%201350%20Oklahoma%20City,%20OK%20123
+"Address1":"1900 NORTHWEST EXPRESSWAY","Address2":"SUITE 1350","City":"OKLAHOMA CITY","State":"OK","ZipPlus4":"73118-1855","ZipCode":"73118","Zip4":"1855"
+--6. Incorrect Zip, Wrong Position-- http://risokcwebt001/Common.WebServices/api/addressparse?fullAddress=1900%20Northwest%20Expressway%2074012%20Suite%201350%20Oklahoma%20City,%20OK
+"Address1":"1900 NORTHWEST EXPRESSWAY","Address2":"SUITE 1350","City":"OKLAHOMA CITY","State":"OK","ZipPlus4":"73118-1855","ZipCode":"73118","Zip4":"1855"

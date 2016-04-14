@@ -1,0 +1,10 @@
+c:\users\al-hra01\documents\visual studio 2010\Projects\WisconsinApiJsonParser\WisconsinApiJsonParser\bin\Debug\WisconsinApiJsonParser.exe
+c:\users\al-hra01\documents\visual studio 2010\Projects\WisconsinApiJsonParser\WisconsinApiJsonParser\bin\Debug\WisconsinApiJsonParser.pdb
+c:\users\al-hra01\documents\visual studio 2010\Projects\WisconsinApiJsonParser\WisconsinApiJsonParser\bin\Debug\Newtonsoft.Json.dll
+c:\users\al-hra01\documents\visual studio 2010\Projects\WisconsinApiJsonParser\WisconsinApiJsonParser\bin\Debug\Newtonsoft.Json.pdb
+c:\users\al-hra01\documents\visual studio 2010\Projects\WisconsinApiJsonParser\WisconsinApiJsonParser\bin\Debug\Newtonsoft.Json.xml
+c:\users\al-hra01\documents\visual studio 2010\Projects\WisconsinApiJsonParser\WisconsinApiJsonParser\obj\x86\Debug\WisconsinApiJsonParser.Properties.Resources.resources
+c:\users\al-hra01\documents\visual studio 2010\Projects\WisconsinApiJsonParser\WisconsinApiJsonParser\obj\x86\Debug\WisconsinApiJsonParser.csproj.GenerateResource.Cache
+c:\users\al-hra01\documents\visual studio 2010\Projects\WisconsinApiJsonParser\WisconsinApiJsonParser\obj\x86\Debug\WisconsinApiJsonParser.exe
+c:\users\al-hra01\documents\visual studio 2010\Projects\WisconsinApiJsonParser\WisconsinApiJsonParser\obj\x86\Debug\WisconsinApiJsonParser.pdb
+c:\users\al-hra01\documents\visual studio 2010\Projects\WisconsinApiJsonParser\WisconsinApiJsonParser\obj\x86\Debug\WisconsinApiJsonParser.frmMain.resources

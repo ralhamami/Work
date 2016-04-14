@@ -1,0 +1,4 @@
+--1--RISOKCSQLQ005--select * from C3CivilAutomation.dbo.DBF_Build_Civil where courtid = 'ILCOOM1' and casenumber = '15M1703001'
+1 FileType=BN
+--2--RISOKCSQLQ005--select * from C3CivilAutomation.dbo.DBF_Build_Civil where courtid = 'ILCOOM1' and casenumber = '15M1703001'
+1 FileType=RS

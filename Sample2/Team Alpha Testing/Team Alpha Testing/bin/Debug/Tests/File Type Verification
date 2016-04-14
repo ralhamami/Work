@@ -1,0 +1,4 @@
+select * from DBF_Build_Lien WHERE CaseNumber = '15WC000019'
+FileType=TW
+select * from DBF_Build_Civil WHERE CaseNumber = '143407CV1'
+FeedID=MISA

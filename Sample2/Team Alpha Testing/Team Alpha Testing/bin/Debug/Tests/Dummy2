@@ -1,0 +1,4 @@
+select * from C3CivilAutomation.dbo.DBF_Build_Civil where casenumber = '15M1703001'
+CivilTypeDesc=CV
+select * from C3CivilAutomation.dbo.DBF_Build_Civil where casenumber = '15M1703001'
+courtid=ILCOOM1
